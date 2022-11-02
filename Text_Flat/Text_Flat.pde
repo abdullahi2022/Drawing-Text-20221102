@@ -1,1 +1,3 @@
-hi HAMZA
+//global variables
+//
+rect(titleX, titleY, titleWidth, titleHeight);
